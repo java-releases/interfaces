@@ -9,7 +9,7 @@
 
 <hr>
 
-### Resumo
+### Resumo <br/><br/>
 
 > #### Método Default 
   - Existe desde o Java 8;
