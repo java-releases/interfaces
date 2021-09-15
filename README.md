@@ -21,6 +21,7 @@
   - Não pode ser abstract, final, ou static;
   - Pode ser subscrito por uma classe, que implementa a interface;
   - Se uma classe herdar 2 ou mais métodos “default” com a mesma assinatura, então a classe deverá subscrever o método;
+  <br/><br/>
   
 > #### Método Static
   - Existe desde o Java 8;
@@ -29,6 +30,7 @@
   - É implicitamente public;
   - Não pode ser abstract, ou final;
   - Não é herdado e não pode ser acessado na classe de implementação sem uma referência ao nome da interface;
+  <br/><br/>
   
 > #### Método Private
 - Existe desde o Java 9;
@@ -36,13 +38,15 @@
 - Deve conter a palavra chave private, e incluir um corpo no método;
 - Um método privado, pode ser chamado apenas por um default ou um private (não static);
 - Não pode ser abstract (já que nunca serão herdados);
+<br/><br/>
 
 > #### Método Private Static
 - Existe desde o Java 9;
 - Deve ter as palavras chave private, e static. E deve incluir um corpo no método;
 - Pode ser chamado por outro método; 
 - Não pode chamar um método private;
-  
+<br/><br/>
+
 > #### Interface Funcional 
   - É quando uma interface possui apenas 1 método abstrato;
   - O uso da anotação @FunctionalInterface é opcional;
