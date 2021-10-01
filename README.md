@@ -1,4 +1,4 @@
-![](https://github.com/java-releases/interfaces/blob/main/java.jpg)
+![](https://github.com/java-releases/interfaces/blob/main/interfaces.gif)
 
 ### Tópico: Interfaces
 ### Objetivos
