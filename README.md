@@ -1,5 +1,3 @@
-![](https://github.com/java-releases/interfaces/blob/main/interfaces.png)
-
 ### Tópico: Interfaces
 ### Objetivos
 - Criar e usar métodos na interface;
